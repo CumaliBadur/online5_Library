@@ -1,1 +1,6 @@
 testing test poject
+<<<<<<< HEAD
+=======
+test from farid
+abc
+>>>>>>> c54aa5c7499996db27a1232097867cb244bb1f53
