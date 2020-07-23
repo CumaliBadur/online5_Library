@@ -26,7 +26,7 @@ public class Driver {
                     WebDriverManager.chromedriver().setup();
                     driver = new ChromeDriver();
                     break;
-                case "remote-chrome":
+                case "chrome-remote":
                     chromeOptions = new ChromeOptions();
                     try {
                         URL url = new URL ("http://100.24.15.65:4444/wd/hub");
