@@ -18,5 +18,3 @@ import org.junit.runner.RunWith;
 )
 public class CukesRunner {
 }
-//text from github
-//test my new branch
